@@ -1,0 +1,5 @@
+__pycache__
+*.pyc
+uploaded_images/
+pet_images/
+env/
